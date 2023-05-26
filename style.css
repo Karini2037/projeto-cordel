@@ -100,7 +100,7 @@ section.imagem > p {
 
 section#img1 {
     background-image: url('../projeto-cordel/imagens/background001.jpg');
-    background-position: right center;
+    background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
