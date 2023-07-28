@@ -6,8 +6,8 @@
 
 :root {
     --font-padrao: font-family: Verdana, Geneva, Tahoma, sans-serif;
-    --font01: 'Passion One', cursive;
-    --font02: 'Sriracha', cursive;
+    --font-01:'Passion One', cursive;
+    --font-02: 'Sriracha', cursive;
 }
 
 * {
@@ -30,7 +30,7 @@ header {
 header > h1 {
     color: white;
     font-size: 10vw;
-    font-family: var(--font01);
+    font-family: var(--font-02);
     font-variant: small-caps;
     padding-top: 50px;
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.273);
